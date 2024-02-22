@@ -1,0 +1,77 @@
+.btn2{
+    margin-right: 10px;
+}
+
+.btt{
+    text-align: center;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #485769;
+    
+}
+
+.btt a{
+    
+    text-decoration: none;
+    color: rgb(247, 244, 244);
+}
+
+.btt:hover{
+    background-color: #48576980;
+}
+
+.card:hover img{
+    scale: 1.2;
+}
+
+.foot{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    /* background-color: #232F3E; */
+}
+
+
+.foot a{
+    text-decoration: none;
+    color: aliceblue;
+
+}
+
+.footer{
+    background-color: #232F3E;
+    height: 250px;
+}
+
+.pagi{
+    /* text-align: center; */
+    display: flex;
+    justify-content: center;
+    /* position: absolute; */
+}
+
+.progress{
+    width: 60%;
+    /* display: flex;
+    justify-content: center; */
+    margin-left: 20%;
+}
+
+.con4{
+    margin-top: 10px;
+
+}
+
+.sn a{
+    display: flex;
+    justify-content: center;
+    width: 40%;
+}
+
+.sign a{
+    text-decoration: none;
+    color: rgb(225, 68, 68);
+}
